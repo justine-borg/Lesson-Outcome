@@ -1,8 +1,7 @@
-# Lesson Outcome
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Page Title</title>
+    <title>Page Text</title>
 </head>
  <body>
   <h1>Lesson Outcome
